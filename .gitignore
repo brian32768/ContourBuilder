@@ -1,2 +1,7 @@
 *.pyc
 *~
+ContourBuilder.gdb
+*.tif
+*.tfw
+*.tif.aux.xml
+*.tif.ovr
